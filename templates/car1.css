@@ -1,0 +1,121 @@
+body {
+    font-family: Inter, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url('bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 1em 0;
+    width: 100%;
+    text-align: center;
+    box-shadow: 0 4px 2px -2px gray;
+}
+header h1 {
+    margin: 0;
+}
+form {
+    background-color: white;
+    padding: 2em;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    margin-top: 2em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+form input[type="file"] {
+    margin-bottom: 1em;
+}
+form button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 0.5em 2em;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+}
+form button:hover {
+    background-color: #45a049;
+}
+h2 {
+    margin-top: 2em;
+    color: #333;
+}
+#result-image {
+    margin-top: 1em;
+    max-width: 80%;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+}
+.fa-cloud-upload-alt {
+    font-size: 1.5em;
+    margin-right: 0.5em;
+}
+.loader {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.8);
+    z-index: 1000;
+    display: none; /* Hide the loader by default */
+}
+.car__body {
+    animation: shake 0.2s ease-in-out infinite alternate;
+}
+.car__line {
+    transform-origin: center right;
+    stroke-dasharray: 22;
+    animation: line 0.8s ease-in-out infinite;
+    animation-fill-mode: both;
+}
+.car__line--top {
+    animation-delay: 0s;
+}
+.car__line--middle {
+    animation-delay: 0.2s;
+}
+.car__line--bottom {
+    animation-delay: 0.4s;
+}
+@keyframes shake {
+    0% {
+        transform: translateY(-1%);
+    }
+    100% {
+        transform: translateY(3%);
+    }
+}
+@keyframes line {
+    0% {
+        stroke-dashoffset: 22;
+    }
+    25% {
+        stroke-dashoffset: 22;
+    }
+    50% {
+        stroke-dashoffset: 0;
+    }
+    51% {
+        stroke-dashoffset: 0;
+    }
+    80% {
+        stroke-dashoffset: -22;
+    }
+    100% {
+        stroke-dashoffset: -22;
+    }
+}
