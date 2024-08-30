@@ -10,7 +10,7 @@ This project is a web-based application that utilizes a pre-trained Mask R-CNN m
 
   ## Demo
 
-![Demo Image](path_to_your_image.png)
+![Demo Image](Screenshot 2024-06-21 161627.png)
 
 ## Project Structure
 
