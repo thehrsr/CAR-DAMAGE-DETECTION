@@ -8,6 +8,10 @@ This project is a web-based application that utilizes a pre-trained Mask R-CNN m
 - Classify the type of damage (scratch, dent, shatter, dislocation).
 - Visualize the damage with bounding boxes and masks.
 
+  ## Demo
+
+![Demo Image](path_to_your_image.png)
+
 ## Project Structure
 
 - `app.py`: The main Flask application that serves the web interface and handles image processing requests.
