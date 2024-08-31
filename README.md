@@ -88,12 +88,15 @@ The application will display the detected damages with bounding boxes and masks.
 
 ### Workflow
 Bounding Boxes
+
 ![Screenshot 2024-08-31 054126](https://github.com/user-attachments/assets/6785cc21-4cbe-41f3-a674-bf17b0d10f5d)
 
 ROIs
+
 ![Screenshot 2024-08-31 054150](https://github.com/user-attachments/assets/29636c34-8a17-439f-9df9-45134bd4c4fd)
 
 Anchors
+
 ![Screenshot 2024-08-31 054207](https://github.com/user-attachments/assets/7d8264ad-2149-48ad-aa22-c2aa33cdc69a)
 
 ![Screenshot 2024-08-31 054225](https://github.com/user-attachments/assets/c1d73d99-94ac-4c4b-a822-c9843076a0a7)
