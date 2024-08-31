@@ -10,7 +10,8 @@ This project is a web-based application that utilizes a pre-trained Mask R-CNN m
 
   ## Demo
 
-![Demo Image](Screenshot 2024-![Screenshot 2024-06-21 161627](https://github.com/user-attachments/assets/3f36a6ef-b49c-4988-b15f-16d1169ddbc7)
+![Demo Image]![Screenshot 2024-08-31 052704](https://github.com/user-attachments/assets/75de5ffe-6080-456f-8d94-5a154ac5778b)
+
 
 
 ## Project Structure
@@ -47,9 +48,19 @@ The application will start and run on http://127.0.0.1:5000/.
 
 ### Usage
 Open your browser and navigate to http://127.0.0.1:5000/.
+![Screenshot 2024-08-31 052354](https://github.com/user-attachments/assets/3044a684-6d04-4af1-a947-44d53547c4c7)
+
 Click the "Choose Image" button to upload an image of a car.
+![Screenshot 2024-08-31 052450](https://github.com/user-attachments/assets/91a737b2-4e44-49e7-a8e3-c18bd932c1c8)
+![Screenshot 2024-08-31 052518](https://github.com/user-attachments/assets/c0c7b16c-50ff-47c0-a4a4-c8f716cc8721)
+![Screenshot 2024-08-31 052543](https://github.com/user-attachments/assets/e5947548-0b43-4afd-bff7-da2a6e8c9a91)
+
+
+
 Click "Upload" to submit the image.
 The application will display the detected damages with bounding boxes and masks.
+![Screenshot 2024-08-31 052611](https://github.com/user-attachments/assets/aa47ed11-2dcf-4798-bf77-1a6349131e9e)
+
 
 
 ### Troubleshooting
