@@ -10,8 +10,11 @@ This project is a web-based application that utilizes a pre-trained Mask R-CNN m
 
   ## Demo
 
-![Demo Image]![Screenshot 2024-08-31 052704](https://github.com/user-attachments/assets/75de5ffe-6080-456f-8d94-5a154ac5778b)
-
+![Screenshot 2024-08-31 052704](https://github.com/user-attachments/assets/75de5ffe-6080-456f-8d94-5a154ac5778b)
+![Screenshot 2024-08-31 053152](https://github.com/user-attachments/assets/def8a406-e83f-4e7a-90a7-439758c71ec5)
+![Screenshot 2024-07-10 102943](https://github.com/user-attachments/assets/dcc20a46-38d1-4ca4-9f5d-68c5f5ffd64b)
+![Screenshot 2024-06-21 161627](https://github.com/user-attachments/assets/65728994-78c9-4664-9895-9c0c44261beb)
+![Screenshot 2024-07-19 180607](https://github.com/user-attachments/assets/794e4591-80b9-485b-ba32-da49fc53cae0)
 
 
 ## Project Structure
