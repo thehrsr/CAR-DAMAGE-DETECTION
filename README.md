@@ -15,6 +15,10 @@ This project is a web-based application that utilizes a pre-trained Mask R-CNN m
 ![Screenshot 2024-07-10 102943](https://github.com/user-attachments/assets/dcc20a46-38d1-4ca4-9f5d-68c5f5ffd64b)
 ![Screenshot 2024-06-21 161627](https://github.com/user-attachments/assets/65728994-78c9-4664-9895-9c0c44261beb)
 ![Screenshot 2024-07-19 180607](https://github.com/user-attachments/assets/794e4591-80b9-485b-ba32-da49fc53cae0)
+![Screenshot 2024-08-31 053946](https://github.com/user-attachments/assets/3dbb6439-f606-4ebb-8381-73f36d6418ba)
+![Screenshot 2024-08-31 054007](https://github.com/user-attachments/assets/06b4560b-06cd-4910-b941-c723b82146d3)
+![Screenshot 2024-08-31 054024](https://github.com/user-attachments/assets/beb93cce-7b19-4c14-a2cd-541383dad4a8)
+
 
 
 ## Project Structure
@@ -63,6 +67,22 @@ Click the "Choose Image" button to upload an image of a car.
 Click "Upload" to submit the image.
 The application will display the detected damages with bounding boxes and masks.
 ![Screenshot 2024-08-31 052611](https://github.com/user-attachments/assets/aa47ed11-2dcf-4798-bf77-1a6349131e9e)
+
+### Workflow
+Bounding Boxes
+![Screenshot 2024-08-31 054126](https://github.com/user-attachments/assets/6785cc21-4cbe-41f3-a674-bf17b0d10f5d)
+
+ROIs
+![Screenshot 2024-08-31 054150](https://github.com/user-attachments/assets/29636c34-8a17-439f-9df9-45134bd4c4fd)
+
+Anchors
+![Screenshot 2024-08-31 054207](https://github.com/user-attachments/assets/7d8264ad-2149-48ad-aa22-c2aa33cdc69a)
+
+![Screenshot 2024-08-31 054225](https://github.com/user-attachments/assets/c1d73d99-94ac-4c4b-a822-c9843076a0a7)
+
+
+
+
 
 
 
